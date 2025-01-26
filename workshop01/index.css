@@ -1,0 +1,11 @@
+.header {
+    color: red;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.content {
+    color: blue;
+    background-color: lightgreen;
+    text-align: center;
+}
